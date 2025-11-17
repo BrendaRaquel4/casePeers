@@ -1,0 +1,41 @@
+id_produto	ID_ESTOQUE	nome_produto	CATEGORIA
+1001	5001	Filtro de Ar Motor	Iluminação
+1002	5002	Velas de Ignição	Ignição
+1003	5003	Bateria 60Ah	Carroceria
+1004	5004	Parachoque Dianteiro	Elétrico
+1005	5005	Disco de Freio	Carroceria
+1006	5006	Pastilha de Freio Dianteira	Iluminação
+1007	5007	Retrovisor Elétrico	Motor
+1008	5008	Disco de Freio	Carroceria
+1009	5009	Filtro de Combustível	Suspensão
+1010	5010	Filtro de Ar Motor	Suspensão
+1011	5011	Jogo de Tapetes	Carroceria
+1012	5012	Lanterna Traseira	Suspensão
+1013	5013	Retrovisor Elétrico	Motor
+1014	5014	Radiador de Alumínio	Suspensão
+1015	5015	Farol Dianteiro	Carroceria
+1016	5016	Disco de Freio	Suspensão
+1017	5017	Velas de Ignição	Sistema de Freio
+1018	5018	Radiador de Alumínio	Iluminação
+1019	5019	Disco de Freio	Carroceria
+1020	5020	Kit de Embreagem	Elétrico
+1021	5021	Parachoque Dianteiro	Ignição
+1022	5022	Velas de Ignição	Ignição
+1023	5023	Sensor de ABS	Motor
+1024	5024	Disco de Freio	Interior
+1025	5025	Filtro de Ar Motor	Motor
+1026	5026	Amortecedor Traseiro	Elétrico
+1027	5027	Embreagem Completa	Carroceria
+1028	5028	Filtro de Ar Motor	Motor
+1029	5029	Farol Dianteiro	Elétrico
+1030	5030	Disco de Freio	Ignição
+1031	5031	Parachoque Dianteiro	Ignição
+1032	5032	Jogo de Tapetes	Sistema de Freio
+1033	5033	Cabo de Velas	Motor
+1034	5034	Embreagem Completa	Suspensão
+1035	5035	Pastilha de Freio Dianteira	Suspensão
+1036	5036	Disco de Freio	Elétrico
+1037	5037	Lâmpada Halógena	Motor
+1038	5038	Disco de Freio	Motor
+1039	5039	Lanterna Traseira	Sistema de Freio
+1040	5040	Retrovisor Elétrico	Ignição
